@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "path": "/",
+        "name": "home"
+    },
+    {
+        "id": "2",
+        "path": "#about-section",
+        "name": "about"
+    },
+    {
+        "id": "3",
+        "path": "#",
+        "name": "shop"
+    },
+    {
+        "id": "4",
+        "path": "#services-section",
+        "name": "services"
+    },
+    {
+        "id": "5",
+        "path": "#footer-section",
+        "name": "contact"
+    }
+]
